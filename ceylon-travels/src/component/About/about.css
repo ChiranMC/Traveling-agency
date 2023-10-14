@@ -1,0 +1,42 @@
+.aboutus{
+    font-size: 20px;
+}
+
+.Board{
+    background: rgba(18, 192, 205, 0.7);
+    width: 1100px;
+    height: 465px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 10px rgb(75,75,75);
+}
+
+.centrr{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    left: 100px;
+}
+
+.containerr{
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    top: 20%;
+    padding-top: 190px;
+    left: 170px;
+    
+}
+
+.label1{
+    padding-bottom: 215px;
+}
+
+.label3{
+    padding-bottom: 210px;
+}
+
+.siz{
+    font-size: 100px;
+    padding-bottom: 210px;
+}
